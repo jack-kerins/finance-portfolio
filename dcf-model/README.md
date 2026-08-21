@@ -22,15 +22,15 @@ Built as a 9 tab Excel workbook, fully linked end to end. Every output flows fro
 
 Tabs are as follows:
 
-•	Assumptions - Every driver and input, single source of truth for the model
-•	Revenue Build - US + International revenue, driven by geographic growth assumptions
-•	Opex & EBITDA - Gross margin, R&D, SG&A → EBITDA/EBIT 
-•	Capex & D&A - Capital spending and depreciation schedule, incl. gross PP&E roll-forward 
-•	Working Capital - Inventory, receivables, payables → change in NWC
-•	Unlevered FCF - EBIT, tax, D&A, capex, and NWC combine into free cash flow
-•	WACC - CAPM cost of equity + after-tax cost of debt, weighted 
-•	DCF & Valuation - Discounts explicit FCF + terminal value to an implied share price 
-•	Sensitivity - Two data tables: WACC × Terminal Growth, and Revenue Growth × Exit Multiple 
+- Assumptions - Every driver and input, single source of truth for the model
+- Revenue Build - US + International revenue, driven by geographic growth assumptions
+- Opex & EBITDA - Gross margin, R&D, SG&A → EBITDA/EBIT 
+- Capex & D&A - Capital spending and depreciation schedule, incl. gross PP&E roll-forward 
+- Working Capital - Inventory, receivables, payables → change in NWC
+- Unlevered FCF - EBIT, tax, D&A, capex, and NWC combine into free cash flow
+- WACC - CAPM cost of equity + after-tax cost of debt, weighted 
+- DCF & Valuation - Discounts explicit FCF + terminal value to an implied share price 
+- Sensitivity - Two data tables: WACC × Terminal Growth, and Revenue Growth × Exit Multiple 
 
 Historical years (FY2023A-FY2025A) are hardcoded from DexCom's 10-K filings. Forecast years (FY2026E–FY2030E) are formula-driven off the Assumptions tab.
 
