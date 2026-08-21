@@ -1,0 +1,38 @@
+# Costco Financial Performance Dashboard (Power BI)
+
+## Overview
+An interactive 4-page Power BI dashboard analyzing Costco Wholesale Corporation's (NASDAQ: COST) financial performance from FY2021–FY2025, covering profitability, income statement structure, and balance sheet health.
+
+**[View Dashboard Preview (PDF)](./Costco_Dashboard_Preview.pdf)** · **[Live Dashboard](#)** *(add your Power BI Service link here)*
+
+## Business Question
+How has Costco's financial performance evolved over the past five years, and what does that reveal about the sustainability of its growth?
+
+## Data Source
+Financial statement data compiled from Costco's audited 10-K filings, FY2021–FY2025, via [stockanalysis.com](https://stockanalysis.com/stocks/COST/financials/).
+
+## Tools & Techniques
+- **Power Query** — data cleaning, unpivoting wide-format financials into a long/tall fact table, custom columns for statement categorization
+- **Data Modeling** — star schema with a fact table (`FactFinancials`) and date dimension (`DimDate`)
+- **DAX** — 15+ measures including profitability margins, liquidity ratios, leverage ratios, and a signed waterfall measure for bridge chart logic
+- **Report Design** — multi-page layout with consistent navigation, dynamic slicers, and visual-level filtering for period-specific KPIs
+
+## Pages
+
+**1. Cover** — Project overview and data source
+
+**2. Executive Summary** — FY2025 snapshot (Revenue, Net Margin, ROE, Current Ratio) alongside a 5-year Revenue vs. Net Income trend
+
+**3. Profitability Deep Dive** — Revenue-to-Net-Income bridge chart (FY2025) and 5-year margin trend analysis (Gross, Operating, Net)
+
+**4. Balance Sheet & Liquidity** — Balance sheet composition (Liabilities vs. Equity) and liquidity/leverage trends (Current Ratio, Total Liabilities-to-Equity)
+
+## Key Findings
+- Revenue grew from $196B to $275B (FY2021–FY2025), while net margin expanded from 2.6% to 2.9%, reflecting disciplined cost management despite inflationary pressure
+- COGS consumes roughly 87% of revenue, consistent with Costco's low-margin, high-volume retail model
+- Total liabilities-to-equity declined from 2.3 to 1.7 over the period, while the current ratio held steady above 1.0 — indicating Costco strengthened its balance sheet while continuing to grow
+
+## Files
+- `Costco_Financials.pbix` — full Power BI report file
+- `Costco_Financials.xlsx` — cleaned source data
+- `Costco_Dashboard_Preview.pdf` — static preview of all 4 pages
