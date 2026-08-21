@@ -3,7 +3,7 @@
 ## Overview
 An interactive 4-page Power BI dashboard analyzing Costco Wholesale Corporation's (NASDAQ: COST) financial performance from FY2021–FY2025, covering profitability, income statement structure, and balance sheet health.
 
-**[View Dashboard Preview (PDF)](./Costco%20PowerBI%20Project%20PDF.pdf)** · **[Live Dashboard](#)** (https://app.powerbi.com/view?r=eyJrIjoiZjM0ZTQ2NTktOTEwMS00NGQ1LWJiNTYtNThlY2I5Y2U0ZGMzIiwidCI6Ijk2NzNlOWE4LWFhNTctNDQ2MS05MzM2LTVmZDNmMDAzNGUxOCIsImMiOjZ9)*
+**[View Dashboard Preview (PDF)](./Costco%20PowerBI%20Project%20PDF.pdf)** · **[Live Dashboard](#)** (https://app.powerbi.com/view?r=eyJrIjoiZjM0ZTQ2NTktOTEwMS00NGQ1LWJiNTYtNThlY2I5Y2U0ZGMzIiwidCI6Ijk2NzNlOWE4LWFhNTctNDQ2MS05MzM2LTVmZDNmMDAzNGUxOCIsImMiOjZ9)
 
 ## Business Question
 How has Costco's financial performance evolved over the past five years, and what does that reveal about the sustainability of its growth?
