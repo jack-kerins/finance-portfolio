@@ -33,6 +33,6 @@ Financial statement data compiled from Costco's audited 10-K filings, FY2021–F
 - Total D/E declined from 2.3 to 1.7 over the period, while the current ratio held steady above 1.0 — indicating Costco strengthened its balance sheet while continuing to grow
 
 ## Files
-- `Costco_Financials.pbix` — full Power BI report file
+- `Costco Project.pbix` — full Power BI report file
 - `Costco_Financials.xlsx` — cleaned source data
-- `Costco_Dashboard_Preview.pdf` — static preview of all 4 pages
+- `Costco PowerBI Project PDF.pdf` — static preview of all 4 pages
