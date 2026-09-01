@@ -20,7 +20,7 @@ A multiscenario 5 year CBA model evaluating four strategic options for a 2,500 u
 
 **What it models:**
 - Four options across contract reenrollment, repair, and replacement strategies - each with distinct coverage windows, failure risk profiles, and cost structures
-- YoY cost build incorporating contract pricing, out of pocket repair exposure, trade-in recovery, and aging device failure rate acceleration modeled as a chained survival formula
+- Year-by-year cost build incorporating contract pricing, out of pocket repair exposure, trade-in recovery, and aging device failure rate acceleration modeled as a chained survival formula
 - Productivity loss from device downtime - modeled separately for units under warranty (1.5-day OneCare advance exchange) vs. unprotected units (10-day out-of-contract repair cycle), quantifying the real cost of running an unprotected fleet at scale
 - Dynamic failure rate step-up (+2%/yr) to simulate EOL device behavior as the aging fleet accelerates toward failure
 - Executive Summary tab written as a one page decision brief for a nontechnical stakeholder, including a side by side risk comparison and risk adjusted recommendation
