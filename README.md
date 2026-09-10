@@ -100,7 +100,7 @@ An interactive 4-page Power BI dashboard analyzing Costco's financial performanc
 
 I'm transitioning into FP&A from an operations and account management background, currently pursuing a Master of Science in Finance at San Diego State University (expected 2028). My professional experience includes managing operations within a $27M ARR business unit at MTS, where I worked closely with internal finance teams on reporting, vendor management, and cost analysis.
 
-This portfolio reflects the technical skills I'm building to complement that business experience and make the move into an analyst role.
+This portfolio reflects the technical skills I'm building to complement that business experience and make the move into a Financial Analyst role.
 
 ---
 
